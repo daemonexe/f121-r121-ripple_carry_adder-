@@ -17,7 +17,9 @@ The core building block of the 2-bit ripple carry adder is the **f121** full add
 RTL design                              
 ![image](images/rtl%20design%20for%20121.png)
 
-
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
 
